@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanmolmehra&label=Profile%20views&color=0e75b6&style=flat" alt="iamanmolmehra" /> </p>
 
-I am a student of Gurugram University pursuing B.Tech from Electronics and Communication branch, currently staying in Dharamshala. I am a MERN-Stack Developer from Navgurukul, Himachal Pradesh, [Navgurukul](https://navgurukul.org/).
+I am a student of Gurugram University pursuing B.Tech from Electronics and Communication branch, currently staying in Dharamshala. I am a MERN-Stack Developer from [Navgurukul](https://navgurukul.org/), Himachal Pradesh.
 
 <h3>:mailbox: Reach me out!</h3>
 
@@ -59,12 +59,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 
  <details> 
  <summary>
-  More stuff about me
+ Know More about me
 </summary> 
 
 <br >
 
-I have been brought up in gurgaon between IT companies and technologies taking place everyday. I became a [MENSA](https://www.mensa.org) India scholar when I was in my school clearing the IQ test with 99+ percentile, be it finacial or family problems, MENSA is always helping me and we are getting sponsed by [INDIGO](https://www.goindigo.in) airlines.
+I have been brought up in gurgaon between IT companies and technologies taking place everyday. I became a [MENSA](https://www.mensa.org) India scholar when I was in school clearing the IQ test with 99+ percentile, be it family or finacial issues, MENSA is always there to stand behind me, we are happy to say we are sponsered by [INDIGO](https://www.goindigo.in) airlines.
 
 #### What is GitHub? <img  width="300px" align="right" src="https://connectnigeria.com/articles/wp-content/uploads/2018/11/GitHub-2.png" alt="github..." />
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests.
