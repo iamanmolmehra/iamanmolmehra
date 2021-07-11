@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanmolmehra&label=Profile%20views&color=0e75b6&style=flat" alt="iamanmolmehra" /> </p>
 
-I am a student of Gurugram University pursuing B.Tech from Electronics and Communication branch, currently staying in Dharamshala. I am a MERN-Stak Developer from Navgurukul, Himachal Pradesh, [Navgurukul](https://navgurukul.org/).
+I am a student of Gurugram University pursuing B.Tech from Electronics and Communication branch, currently staying in Dharamshala. I am a MERN-Stack Developer from Navgurukul, Himachal Pradesh, [Navgurukul](https://navgurukul.org/).
 
 <h3>:mailbox: Reach me out!</h3>
 
