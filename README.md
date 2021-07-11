@@ -14,7 +14,7 @@ I am a student of Gurugram University pursuing B.Tech from Electronics and Commu
 
 <!-- TODO: Add last video link -->
 
-- 🌱 I’m projects on [ReactJS](https://reactjs.org/docs/getting-started.html) and [Redux](https://redux.js.org)
+- 🌱 I’m making projects on [ReactJS](https://reactjs.org/docs/getting-started.html) and [Redux](https://redux.js.org)
 - 👯 I have learnt [NodeJS](https://nodejs.org/en/)
 - 🤔 I’m exploring a life in [Mountains](https://en.wikipedia.org/wiki/Dharamshala)
 - 💻 I have learnt three languages [Python](https://www.python.org) and [Javascript](https://www.javascript.com) and C Language.
